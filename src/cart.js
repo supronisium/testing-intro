@@ -1,5 +1,5 @@
 function notImplemented() {
-  throw new Error('Корзина ещё не реализована. Сначала прочитайте тесты.');
+  throw new Error('Корзина ещё не реализована. Сначала прочитайте тесты. In progress');
 }
 
 function addToCart() { return notImplemented(); }
